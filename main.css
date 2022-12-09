@@ -22,6 +22,7 @@ body {
 
 .card-image {
     background-color: aqua;
-    height: 150px;
+    height: 170px;
     margin-bottom: 15px;
+    background-size: cover;
 }
